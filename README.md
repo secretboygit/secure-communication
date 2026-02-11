@@ -22,16 +22,15 @@ This project is developed for educational and research purposes in secure commun
    ```bash
    git clone https://github.com/secretboygit/secure-communication.git
 2. Install dependencies:
-
 pip install -r requirements.txt
+
 3. Run server:
-
 python3 server.py
+
 4. Run client:
-
 python3 client.py
-5. Register users, send/receive encrypted messages
 
+5. Register users, send/receive encrypted messages
 Files Overview:
 
 crypto_utils.py → Crypto functions (AES, RSA)
